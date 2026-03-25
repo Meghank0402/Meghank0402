@@ -1,5 +1,11 @@
 # 💫 About Me:
-	•	👋 Hi, I’m Meghank<br>	•	💼 Currently working as a Data Engineer, building scalable data pipelines and real-time data systems<br>	•	🌱 Currently learning more about advanced data architectures, streaming systems, and cloud optimization<br>	•	👯 Looking to collaborate on data engineering projects, especially around Spark, Snowflake, and AWS<br>	•	🤝 Open to helping with ETL pipelines, SQL optimization, and data modeling<br>	•	💬 Ask me about Python, SQL, Spark, or building production-ready data pipelines<br>	•	⚡ Fun fact: I enjoy turning messy data into clean, meaningful insights that actually drive decisions
+	•	👋 Hi, I’m Meghank<br>	
+	•	💼 Currently working as a Data Engineer, building scalable data pipelines and real-time data systems<br>	
+	•	🌱 Currently learning more about advanced data architectures, streaming systems, and cloud optimization<br>	
+	•	👯 Looking to collaborate on data engineering projects, especially around Spark, Snowflake, and AWS<br>	
+	•	🤝 Open to helping with ETL pipelines, SQL optimization, and data modeling<br>	
+	•	💬 Ask me about Python, SQL, Spark, or building production-ready data pipelines<br>	
+	•	⚡ Fun fact: I enjoy turning messy data into clean, meaningful insights that actually drive decisions
 
 
 # 💻 Tech Stack:
